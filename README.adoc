@@ -10,7 +10,7 @@ Serial declaration:
 - AutoSerial mySerial;
 
 Check if serial is hardware:
-- bool mySerial.isHardware();
+- bool mySerial.isHardwareSerial();
 
 Assign RX and TX pins if serial is SoftwareSerial:
 - bool mySerial.setRxTxPins(uint8_t Rx,uint8_t Tx);
