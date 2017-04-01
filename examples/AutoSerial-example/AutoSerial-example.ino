@@ -4,8 +4,8 @@
  *  Created on: 29 mar 2017
  *      Author: Radek Kubera (rkubera)
  *
- * Example creates 3 serial ports: usbSerial, debugSerial and inoSerial
- * and check if serial it is hardware os sofrware serial port
+ * Example creates 3 serial ports: usbSerial, debugSerial and infoSerial
+ * and check if serial is hardware or sofrware serial port
  */
 
 #include "AutoSerial.h"
